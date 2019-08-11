@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: FynderLab | A blog for deep learning and computer vision 
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Vishnu Murali"
+  email: "vishnuerm@gmail.com"
+  url: "http://www.fynderlabs.com"
 
 # Build settings
 baseurl: /blog/ # Change this to your relative path (ex: /blog/), or leave just a /
